@@ -1,0 +1,24 @@
+.Modal-Link {
+  width: 50px;
+  align-self: center;
+}
+
+/* Modal */
+.Modal-text {
+  font-family: "Dancing Script", sans-serif;
+  margin-left: 10%;
+  margin-top: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-family: "Montserrat";
+}
+
+.Modal-description {
+  width: 90%;
+}
+
+/* Desktop Modal */
+.Project-modal {
+  height: 100%;
+}

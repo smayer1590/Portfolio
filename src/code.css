@@ -1,0 +1,26 @@
+@import url("https://fonts.google.com/specimen/New+Tegomin#standard-styles");
+
+.Code {
+  font-family: "New Tegomin";
+}
+.Code-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.Code-inside {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-overlay {
+  margin: 10%;
+}
+
+.Code-title {
+  font-size: x-large;
+}

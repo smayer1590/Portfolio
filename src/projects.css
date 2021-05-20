@@ -1,0 +1,11 @@
+.Project-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+
+.Project-title {
+  font-family: "New Tegomin";
+  font-size: x-large;
+}
